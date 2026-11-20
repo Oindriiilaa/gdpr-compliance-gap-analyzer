@@ -1,0 +1,9 @@
+venv/
+env/
+__pycache__/
+*.pyc
+chroma_db/
+data/processed/
+.env
+.streamlit/secrets.toml
+Thumbs.db
