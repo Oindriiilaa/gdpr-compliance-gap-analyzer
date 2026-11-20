@@ -1,0 +1,82 @@
+[
+  {
+    "article": "Article 5",
+    "title": "Principles relating to processing of personal data",
+    "summary": "Personal data must be processed lawfully, fairly, and transparently. It must be collected for specified, explicit purposes and not used incompatibly with those purposes. Companies must minimize the data they collect, keep it accurate, and store it only as long as necessary."
+  },
+  {
+    "article": "Article 6",
+    "title": "Lawfulness of processing",
+    "summary": "Processing personal data is only lawful if at least one legal basis applies: consent, contract necessity, legal obligation, vital interests, public task, or legitimate interest. A policy should state which legal basis it relies on for each type of processing."
+  },
+  {
+    "article": "Article 7",
+    "title": "Conditions for consent",
+    "summary": "Where consent is the legal basis, it must be freely given, specific, informed, and unambiguous. The company must be able to demonstrate consent was given, and it must be as easy to withdraw consent as it was to give it."
+  },
+  {
+    "article": "Article 9",
+    "title": "Processing of special categories of personal data",
+    "summary": "Sensitive data (health, race, religion, biometric, sexual orientation, etc.) is subject to stricter rules and generally requires explicit consent or another narrow legal exception before it can be processed."
+  },
+  {
+    "article": "Article 12",
+    "title": "Transparent information and communication",
+    "summary": "Companies must provide information about data processing in a concise, transparent, and easily accessible form, using clear and plain language — especially important for policies aimed at the general public."
+  },
+  {
+    "article": "Article 13",
+    "title": "Information to be provided (data collected from the subject)",
+    "summary": "When collecting data directly from a person, the company must inform them of: the identity of the controller, purposes of processing, legal basis, recipients of the data, retention period, and their rights (access, rectification, erasure, etc.)."
+  },
+  {
+    "article": "Article 15",
+    "title": "Right of access",
+    "summary": "Individuals have the right to obtain confirmation of whether their data is being processed, and access to that data along with details of the processing purpose, categories, and recipients."
+  },
+  {
+    "article": "Article 16",
+    "title": "Right to rectification",
+    "summary": "Individuals can request correction of inaccurate personal data concerning them. A policy should explain how to request this."
+  },
+  {
+    "article": "Article 17",
+    "title": "Right to erasure ('right to be forgotten')",
+    "summary": "Individuals can request deletion of their personal data under certain conditions (e.g., data no longer necessary, consent withdrawn). A policy must describe how erasure requests are handled."
+  },
+  {
+    "article": "Article 20",
+    "title": "Right to data portability",
+    "summary": "Individuals have the right to receive their personal data in a structured, commonly used, machine-readable format and to transmit it to another controller."
+  },
+  {
+    "article": "Article 24",
+    "title": "Responsibility of the controller",
+    "summary": "The company (as data controller) must implement appropriate technical and organizational measures to ensure and demonstrate compliance with GDPR, considering the nature, scope, and risk of processing."
+  },
+  {
+    "article": "Article 25",
+    "title": "Data protection by design and by default",
+    "summary": "Companies must build data protection safeguards into systems and processes from the outset, and default settings should be the most privacy-protective option."
+  },
+  {
+    "article": "Article 30",
+    "title": "Records of processing activities",
+    "summary": "Companies (with some exceptions for small organizations) must maintain a written record of processing activities, including purposes, categories of data, and retention periods."
+  },
+  {
+    "article": "Article 32",
+    "title": "Security of processing",
+    "summary": "Appropriate technical and organizational security measures must be implemented (e.g., encryption, access controls) to protect personal data against breaches, considering the risk to individuals."
+  },
+  {
+    "article": "Article 33",
+    "title": "Notification of a personal data breach to the supervisory authority",
+    "summary": "In case of a data breach, the company must notify the relevant supervisory authority within 72 hours of becoming aware of it, unless the breach is unlikely to result in risk to individuals."
+  },
+  {
+    "article": "Article 37",
+    "title": "Designation of the data protection officer (DPO)",
+    "summary": "Certain organizations (e.g., those doing large-scale monitoring or processing sensitive data) must appoint a Data Protection Officer responsible for overseeing compliance."
+  }
+]

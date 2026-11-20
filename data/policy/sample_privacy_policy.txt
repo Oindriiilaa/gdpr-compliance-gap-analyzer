@@ -1,0 +1,62 @@
+NIMBUSCART PRIVATE LIMITED — PRIVACY POLICY
+(Fictional company, for demo/testing purposes only)
+Last updated: January 2025
+
+1. INTRODUCTION
+NimbusCart Pvt. Ltd. ("NimbusCart", "we", "us") operates an online retail platform.
+This policy explains how we collect, use, and protect personal data of our customers
+and website visitors.
+
+2. WHAT DATA WE COLLECT
+We collect the following information when you use our platform:
+- Name, email address, phone number, and shipping address
+- Payment information (processed via third-party payment gateway)
+- Browsing behavior and cookies on our website
+- Device information (IP address, browser type)
+
+3. HOW WE USE YOUR DATA
+We use your data to:
+- Process and deliver your orders
+- Send order confirmations and shipping updates
+- Improve our website and product recommendations
+- Send marketing emails about offers and new products
+
+4. SHARING YOUR DATA
+We may share your data with:
+- Logistics partners for delivery purposes
+- Payment gateway providers to process transactions
+- Marketing service providers
+
+5. COOKIES
+Our website uses cookies to improve user experience and track browsing behavior
+for analytics purposes.
+
+6. YOUR RIGHTS
+You may contact our support team at support@nimbuscart-demo.com if you have
+questions about your personal data.
+
+7. DATA SECURITY
+We take reasonable measures to protect your personal information from
+unauthorized access.
+
+8. CHANGES TO THIS POLICY
+We may update this policy from time to time. Continued use of our platform
+constitutes acceptance of the updated policy.
+
+9. CONTACT US
+For any questions, email us at support@nimbuscart-demo.com.
+
+---
+NOTE FOR PROJECT (not part of the policy): This document is intentionally
+incomplete relative to GDPR. It does NOT clearly state:
+- The legal basis for processing (Article 6) or for marketing emails (Article 7 consent)
+- Specific data retention periods (Article 5, Article 13)
+- How to exercise the right to erasure, rectification, or data portability
+  (Articles 16, 17, 20) — Section 6 only gives a generic contact, not a process
+- Whether a Data Protection Officer is designated (Article 37)
+- What happens in the event of a data breach / notification process (Article 33)
+- Details of security measures beyond "reasonable measures" (Article 32 requires
+  specificity proportional to risk)
+- Records of processing activities (Article 30) — not customer-facing, but
+  worth noting as an internal gap
+These gaps are exactly what the compliance gap-analysis tool should detect.
